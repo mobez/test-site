@@ -14,3 +14,5 @@
 * легко разбираюсь с настройками оборудования
 * умею тестировать оборудование
 ![Мем](https://github.com/mobez/test-site/blob/main/img/e5da5c671fb977fde771a87cdee37da2.jpg "Не я:)")
+
+theme: Hacker
