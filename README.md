@@ -13,4 +13,4 @@
 * понимаю в электрике
 * легко разбираюсь с настройками оборудования
 * умею тестировать оборудование<br>
-![Мем](https://github.com/mobez/test-site/blob/main/img/e5da5c671fb977fde771a87cdee37da2.jpg "Не я:)")
+![Мем](https://raw.githubusercontent.com/mobez/test-site/main/img/e5da5c671fb977fde771a87cdee37da2.jpg "Не я:)")
