@@ -3,4 +3,4 @@ encoding: utf-8
 permalink: pretty
 highlighter: rouge
 markdown: kramdown
-theme: Hacker
+theme: hacker
